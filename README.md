@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsha1565/harshavardhan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
 | [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
 ## String Matching
 |  |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
