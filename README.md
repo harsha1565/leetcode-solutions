@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harsha1565/harshavardhan/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
