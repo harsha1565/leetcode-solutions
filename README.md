@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
