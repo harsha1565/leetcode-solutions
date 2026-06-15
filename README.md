@@ -10,6 +10,7 @@
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
+| [2678-number-of-senior-citizens](https://github.com/harsha1565/harshavardhan/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsha1565/harshavardhan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
+| [2678-number-of-senior-citizens](https://github.com/harsha1565/harshavardhan/tree/master/2678-number-of-senior-citizens) |
 | [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
 ## String Matching
 |  |
