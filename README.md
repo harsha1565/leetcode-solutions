@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsha1565/harshavardhan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
