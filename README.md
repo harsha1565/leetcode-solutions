@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
