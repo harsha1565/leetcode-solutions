@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
+| [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/harsha1565/harshavardhan/tree/master/2678-number-of-senior-citizens) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
+| [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
+| [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
