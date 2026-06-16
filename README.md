@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harsha1565/harshavardhan/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/harsha1565/harshavardhan/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/harsha1565/harshavardhan/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harsha1565/harshavardhan/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsha1565/harshavardhan/tree/master/0852-peak-index-in-a-mountain-array) |
