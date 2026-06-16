@@ -31,6 +31,7 @@
 | [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harsha1565/harshavardhan/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/harsha1565/harshavardhan/tree/master/0069-sqrtx) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harsha1565/harshavardhan/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harsha1565/harshavardhan/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsha1565/harshavardhan/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harsha1565/harshavardhan/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
