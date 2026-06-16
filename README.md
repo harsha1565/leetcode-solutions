@@ -34,6 +34,7 @@
 | [0258-add-digits](https://github.com/harsha1565/harshavardhan/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/harsha1565/harshavardhan/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harsha1565/harshavardhan/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3099-harshad-number](https://github.com/harsha1565/harshavardhan/tree/master/3099-harshad-number) |
 ## Two Pointers
 |  |
 | ------- |
