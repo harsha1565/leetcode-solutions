@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/harsha1565/harshavardhan/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsha1565/harshavardhan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/harsha1565/harshavardhan/tree/master/0389-find-the-difference) |
 | [2678-number-of-senior-citizens](https://github.com/harsha1565/harshavardhan/tree/master/2678-number-of-senior-citizens) |
 | [3407-substring-matching-pattern](https://github.com/harsha1565/harshavardhan/tree/master/3407-substring-matching-pattern) |
 ## String Matching
@@ -82,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/harsha1565/harshavardhan/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
@@ -110,6 +113,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/harsha1565/harshavardhan/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harsha1565/harshavardhan/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
