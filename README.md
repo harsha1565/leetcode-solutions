@@ -31,6 +31,7 @@
 | [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harsha1565/harshavardhan/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/harsha1565/harshavardhan/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/harsha1565/harshavardhan/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/harsha1565/harshavardhan/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
