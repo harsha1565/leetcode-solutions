@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/harsha1565/harshavardhan/tree/master/0383-ransom-note) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Linked List
