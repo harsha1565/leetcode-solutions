@@ -18,6 +18,7 @@
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/harsha1565/harshavardhan/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/harsha1565/harshavardhan/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/harsha1565/harshavardhan/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/harsha1565/harshavardhan/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/harsha1565/harshavardhan/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/harsha1565/harshavardhan/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
