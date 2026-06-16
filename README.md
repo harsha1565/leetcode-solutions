@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/harsha1565/harshavardhan/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harsha1565/harshavardhan/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
@@ -93,4 +94,5 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harsha1565/harshavardhan/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harsha1565/harshavardhan/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
