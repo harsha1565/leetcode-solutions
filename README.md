@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harsha1565/harshavardhan/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/harsha1565/harshavardhan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harsha1565/harshavardhan/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsha1565/harshavardhan/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harsha1565/harshavardhan/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/harsha1565/harshavardhan/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harsha1565/harshavardhan/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/harsha1565/harshavardhan/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/harsha1565/harshavardhan/tree/master/0507-perfect-number) |
