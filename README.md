@@ -15,6 +15,7 @@
 | [0605-can-place-flowers](https://github.com/harsha1565/harshavardhan/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/harsha1565/harshavardhan/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsha1565/harshavardhan/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/harsha1565/harshavardhan/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/harsha1565/harshavardhan/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/harsha1565/harshavardhan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harsha1565/harshavardhan/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harsha1565/harshavardhan/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
@@ -105,6 +107,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/harsha1565/harshavardhan/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
@@ -127,4 +130,24 @@
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/harsha1565/harshavardhan/tree/master/2843-count-symmetric-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harsha1565/harshavardhan/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
